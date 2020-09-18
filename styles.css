@@ -1,0 +1,22 @@
+div{
+    width:300px;
+    line-height: 1;
+    font-size: 32px;
+    margin:0 auto;
+}
+
+#text-container{
+    width:300px;
+    margin:0 auto;
+background-color: #fff;
+}
+#discription{
+    font-size: 1;
+}
+#caution{
+    width: 300px;
+    background-color: #fff;
+
+    margin:0 auto;
+    color:red;
+}
